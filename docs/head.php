@@ -23,7 +23,7 @@
 </head>
 <body>
   <div class="site-wrap">
-    <header class="h-12 bg-red-500 top-bar">
+    <header class="h-12 top-bar">
       <div class="container flex h-full mx-auto">
         <a href="./" class="flex items-center px-4 logo">
           로고
@@ -33,8 +33,8 @@
 
         <ul class="flex top-bar__menu-box-1">
           <li>
-            <a href="./" class="flex items-center h-full px-4">
-              홈
+            <a href="./sub1.php" class="flex items-center h-full px-4">
+              서브1
             </a>
           </li>
           <li>

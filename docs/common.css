@@ -1,16 +1,23 @@
 body {
-  background-color:royalblue;
+  background-color:bisque;
+}
+
+header {
+  background-color: lightsalmon;
+}
+
+footer {
+  background-color: darksalmon;
 }
 
 .site-wrap {
   display: flex;
   flex-direction: column;
-  min-height: 100vh;s
+  min-height: 100vh;
 }
 
 .site-wrap > * {
   flex-shrink: 0;
-}
 
 .site-wrap > main {
   flex-grow: 1;
